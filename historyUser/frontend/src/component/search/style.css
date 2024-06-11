@@ -1,0 +1,15 @@
+.customSearch{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+.customSearch_group:nth-child(2){
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.customSearch input[type='text']{
+
+}
